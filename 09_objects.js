@@ -34,4 +34,12 @@ js_user.greeting = function(){
     console.log("hello")
 }
 
-console.log(js_user.greeting)
+// console.log(js_user.greeting)
+
+
+const {age : n} = js_user  // other syntext to get values
+
+
+console.log(n)
+
+
